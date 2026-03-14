@@ -1,4 +1,4 @@
-　document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
     // UI要素の取得
     const fileInput = document.getElementById('file-input');
     const runBtn = document.getElementById('run-btn');
